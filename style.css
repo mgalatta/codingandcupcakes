@@ -1,0 +1,12 @@
+html, body {
+	background: #33cc33;
+	font-family: 'Lato', sans-serif;
+	color: #6C6B6B;
+	margin: 0px;
+	padding: 0px;
+	overflow-x: hidden;
+}
+
+h1 {
+	color: #ff0066;
+}
